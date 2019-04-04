@@ -1,6 +1,7 @@
 export function perimeter(figuras: number): number {
     const perimeters: number[] = [];
     let suma: number = 0;
+    const a: string = "";
     perimeters[0] = 1;
     perimeters[1] = 1;
     suma = perimeters[1] + perimeters[0];
