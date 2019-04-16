@@ -12,5 +12,4 @@ export function repeater(str: string, n: number): string {
     return Array(n).fill(str).join("");
 }
 
-
 //export const repeater = Function.prototype.call.bind(String.prototype.repeat);

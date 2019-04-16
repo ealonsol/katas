@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1554995677247" clover="3.2.0">
+  <project timestamp="1554995677247" name="All files">
+    <metrics statements="58" coveredstatements="57" conditionals="4" coveredconditionals="4" methods="15" coveredmethods="15" elements="77" coveredelements="76" complexity="0" loc="58" ncloc="58" packages="1" files="11" classes="11"/>
+    <file name="EncryptThis.ts" path="D:\TypeScript\katas\src\EncryptThis.ts">
+      <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="6" type="stmt"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="6" count="43" type="stmt"/>
+      <line num="8" count="6" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="47" type="stmt"/>
+      <line num="13" count="47" type="stmt"/>
+      <line num="14" count="47" type="stmt"/>
+      <line num="15" count="47" type="stmt"/>
+      <line num="18" count="35" type="stmt"/>
+      <line num="20" count="9" type="stmt"/>
+      <line num="22" count="3" type="stmt"/>
+    </file>
+    <file name="RemoveStringSpaces.ts" path="D:\TypeScript\katas\src\RemoveStringSpaces.ts">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="92" type="stmt"/>
+      <line num="5" count="60" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+    </file>
+    <file name="Repeater.ts" path="D:\TypeScript\katas\src\Repeater.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+    </file>
+    <file name="SumOfPositive.ts" path="D:\TypeScript\katas\src\SumOfPositive.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="10" count="20" type="stmt"/>
+    </file>
+    <file name="Summation.ts" path="D:\TypeScript\katas\src\Summation.ts">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="8" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="abbrevName.ts" path="D:\TypeScript\katas\src\abbrevName.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+    </file>
+    <file name="countPositivesSumNegatives.ts" path="D:\TypeScript\katas\src\countPositivesSumNegatives.ts">
+      <metrics statements="11" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="10" count="18" type="stmt"/>
+      <line num="12" count="9" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="19" count="0" type="stmt"/>
+    </file>
+    <file name="main.ts" path="D:\TypeScript\katas\src\main.ts">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="2" type="stmt"/>
+    </file>
+    <file name="perimeterSquaresRectangle.ts" path="D:\TypeScript\katas\src\perimeterSquaresRectangle.ts">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="7" count="4" type="stmt"/>
+      <line num="8" count="4" type="stmt"/>
+      <line num="9" count="58" type="stmt"/>
+      <line num="10" count="58" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+    </file>
+    <file name="printArray.ts" path="D:\TypeScript\katas\src\printArray.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+    </file>
+    <file name="stringEndsWith.ts" path="D:\TypeScript\katas\src\stringEndsWith.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="13" count="4" type="cond" truecount="2" falsecount="0"/>
+    </file>
+  </project>
+</coverage>
