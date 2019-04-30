@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1556576920936" clover="3.2.0">
-  <project timestamp="1556576920936" name="All files">
-    <metrics statements="107" coveredstatements="103" conditionals="18" coveredconditionals="16" methods="28" coveredmethods="28" elements="153" coveredelements="147" complexity="0" loc="107" ncloc="107" packages="1" files="19" classes="19"/>
+<coverage generated="1556653720861" clover="3.2.0">
+  <project timestamp="1556653720861" name="All files">
+    <metrics statements="94" coveredstatements="90" conditionals="16" coveredconditionals="14" methods="25" coveredmethods="25" elements="135" coveredelements="129" complexity="0" loc="94" ncloc="94" packages="1" files="18" classes="18"/>
     <file name="EncryptThis.ts" path="D:\TypeScript\katas\src\EncryptThis.ts">
       <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
@@ -47,22 +47,6 @@
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
       <line num="1" count="1" type="stmt"/>
       <line num="10" count="20" type="stmt"/>
-    </file>
-    <file name="SumbyFactors.ts" path="D:\TypeScript\katas\src\SumbyFactors.ts">
-      <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
-      <line num="9" count="1" type="stmt"/>
-      <line num="10" count="2" type="stmt"/>
-      <line num="11" count="2" type="stmt"/>
-      <line num="13" count="4" type="stmt"/>
-      <line num="16" count="2" type="stmt"/>
-      <line num="18" count="1" type="stmt"/>
-      <line num="19" count="69" type="stmt"/>
-      <line num="20" count="69" type="stmt"/>
-      <line num="22" count="267" type="stmt"/>
-      <line num="26" count="25" type="stmt"/>
-      <line num="27" count="44" type="stmt"/>
     </file>
     <file name="Summation.ts" path="D:\TypeScript\katas\src\Summation.ts">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
